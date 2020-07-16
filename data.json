@@ -1,0 +1,208 @@
+{
+    "https://www.cambridgeassessment.org.uk/lti/testId": "IELTSi_T1",
+    "userId": "user-000-000-001",
+    "scoreGiven": 4,
+    "scoreMaximum": 19,
+    "https://www.cambridgeassessment.org.uk/lti/totalTimeTaken": 34725,
+    "comment": "Part Score",
+    "timestamp": "2017-04-16T18:54:36.736+00:00",
+    "activityProgress": "Completed",
+    "gradingProgress": "FullyGraded",
+    "https://www.cambridgeassessment.org.uk/lti/testInstanceId": 200607,
+    "https://www.cambridgeassessment.org.uk/lti/items/result": {
+      "parts": [
+        {
+          "id": "Part 1",
+          "score": 3,
+          "maxScore": 5,
+          "items": [
+            {
+              "id": "IESample4optMCQ",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "017442bf-3797-442c-9bab-4f0ec257679e",
+                  "score": 1,
+                  "maxScore": 1,
+                  "response": "A"
+                },
+                {
+                  "id": "c2b3698d-489d-4df5-a16d-d2f887c67eaf",
+                  "score": 0,
+                  "maxScore": 1
+                }
+              ]
+            },
+            {
+              "id": "IESample 4 opt MCQ global",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "be2e3e3d-12dc-49a3-940b-b8e60b6ea3fd",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "C"
+                }
+              ]
+            },
+            {
+              "id": "IESample TFNG",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "b4b14f77-ef27-48cb-9459-82223c722eaa",
+                  "score": 1,
+                  "maxScore": 1,
+                  "response": "A"
+                }
+              ]
+            },
+            {
+              "id": "IESample YNNG",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "3cb32dfd-3a2f-493e-ad8e-ccd57fdb1081",
+                  "score": 1,
+                  "maxScore": 1,
+                  "response": "C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Part 2",
+          "score": 1,
+          "maxScore": 9,
+          "items": [
+            {
+              "id": "IESample Listening 5 opt MCQ",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "9714d42a-ad57-4553-ac62-c3461c159b5b",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "D"
+                },
+                {
+                  "id": "4a7463b7-9e0f-4ba6-b712-47bcbb3f3caa",
+                  "score": 1,
+                  "maxScore": 1,
+                  "response": "B"
+                }
+              ]
+            },
+            {
+              "id": "IESample Listening MCQ",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "d64d5a61-8576-46cb-a4ff-3171e29f054d",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "B"
+                }
+              ]
+            },
+            {
+              "id": "IESample Matching Alternative",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "3046c2b2-584b-4f36-a822-ad0a4b110923",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "A"
+                },
+                {
+                  "id": "8bfa9bab-e85c-4145-8704-43aa3e38375f",
+                  "score": 0,
+                  "maxScore": 1
+                },
+                {
+                  "id": "9fccdf14-8b14-4cea-b382-c4501a685cbe",
+                  "score": 0,
+                  "maxScore": 1
+                },
+                {
+                  "id": "de911f10-ff48-40ba-813d-5ba278734460",
+                  "score": 0,
+                  "maxScore": 1
+                }
+              ]
+            },
+            {
+              "id": "IESample Listening Note Completion",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "36f5a305-1473-4a3e-b616-5d323f63b36a",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "testt"
+                },
+                {
+                  "id": "d394f3bf-6f50-4819-bc3b-b531900a0178",
+                  "score": 0,
+                  "maxScore": 1,
+                  "response": "170"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "Part 3",
+          "score": 0,
+          "maxScore": 5,
+          "items": [
+            {
+              "id": "IESample Note Completion",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "4d21e129-00eb-40ca-91a4-d72f596870fa",
+                  "score": 0,
+                  "maxScore": 1
+                },
+                {
+                  "id": "bef045f2-8bad-4366-955d-602f44a2c66d",
+                  "score": 0,
+                  "maxScore": 1
+                }
+              ]
+            },
+            {
+              "id": "IESample Sentence Completion",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "62a915b8-dba8-4f53-a057-7a57fbac448a",
+                  "score": 0,
+                  "maxScore": 1
+                }
+              ]
+            },
+            {
+              "id": "IESample Short Answer Questions",
+              "version": 1,
+              "interactions": [
+                {
+                  "id": "61932c51-37a1-454f-9db3-418e45fcbc08",
+                  "score": 0,
+                  "maxScore": 1
+                },
+                {
+                  "id": "56d5cd3e-2d57-4be9-b796-a03ed5d86373",
+                  "score": 0,
+                  "maxScore": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

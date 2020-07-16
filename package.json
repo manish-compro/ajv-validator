@@ -1,0 +1,16 @@
+{
+  "name": "ajv-validator",
+  "version": "1.0.0",
+  "description": "Validate data with schema",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "ajv-errors": "^1.0.1"
+  },
+  "author": "Manish Sihag",
+  "license": "MIT"
+}
